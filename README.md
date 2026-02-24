@@ -3,7 +3,7 @@ DEGO Course Project — Team 6
 
 ## Team Members
 - Mariana Campos Lopes 
--Leonor de Albuquerque Mateus Manso
+- Leonor de Albuquerque Mateus Manso
 
 
 ## Project Description
