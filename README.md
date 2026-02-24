@@ -3,6 +3,8 @@ DEGO Course Project — Team 6
 
 ## Team Members
 - Mariana Campos Lopes 
+-Leonor de Albuquerque Mateus Manso
+
 
 ## Project Description
 Credit scoring bias analysis for DEGO course.
