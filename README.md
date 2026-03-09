@@ -25,6 +25,16 @@ We propose a set of concrete governance interventions to bring NovaCred into com
 
 ---
 
+## Presentation Video Link
+
+Google Drive:
+https://drive.google.com/file/d/1s5keC8GKlHuHRxRgkRLbQe5o_aUlV9b1/view?usp=sharing
+
+Youtube:
+https://www.youtube.com/watch?v=qNDqaEdFKYU
+
+---
+
 ## Repository Structure
 
 ```
@@ -33,12 +43,10 @@ project-team6/
 ├── data/
 │   ├── raw_credit_applications.json # Original dataset (do not modify)
 │   └── credit_applications_clean.csv# Cleaned dataset (output of notebook 01)
-├── notebooks/
-│   ├── 01-data-quality.ipynb        # Data cleaning and quality assessment
-│   ├── 02-bias-analysis.ipynb       # Bias detection and fairness metrics
-│   └── 03-privacy-demo.ipynb        # PII identification, pseudonymization, GDPR mapping
-└── src/
-    └── fairness_utils.py            # Reusable fairness metric functions
+└── notebooks/
+    ├── 01-data-quality.ipynb        # Data cleaning and quality assessment
+    ├── 02-bias-analysis.ipynb       # Bias detection and fairness metrics
+    └── 03-privacy-demo.ipynb        # PII identification, pseudonymization, GDPR 
 ```
 
 ---
